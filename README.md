@@ -5,7 +5,7 @@ An interactive Microsoft Excel dashboard for monitoring financial performance ac
 
 > **Portfolio note:** The workbook's displayed selection is **Productivity Apps, June 2017**. Findings below are based on the values stored in the uploaded workbook. Treat the data as a sample/dashboard case study unless you can verify the source system and business context.
 
-![Productivity Apps KPI Dashboard](images/productivity-apps-kpi-dashboard.png)
+![Productivity Apps KPI Dashboard](https://github.com/ekhatornvictory-lgtm/Productivity-Apps-KPI-Dashboard/blob/22866233bc3b3de4c2e3bdd34a289353d94674c0/Excel%20KPI.png)
 
 ## Project Overview
 
