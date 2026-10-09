@@ -133,14 +133,7 @@ Productivity-Apps-KPI-Dashboard/
     └── data-quality-and-methodology.md
 ```
 
-## How to Use
 
-1. Download or clone this repository.
-2. Open `dashboard/KPI-Dashboard.xlsx` in Microsoft Excel.
-3. If the workbook prompts for an external connection or add-in, confirm that the required source connection is available before refreshing.
-4. Use the dashboard's year, month, and division selectors to explore the reporting view.
-5. Check the `Control` sheet for the workbook's original instructions.
-6. Validate refreshed results against the source before using them for business decisions.
 
 ## Limitations
 
